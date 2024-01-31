@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    margin-top: 10px;
+}
+.section-one{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+li{
+    display: inline;
+    
+}
+
+.items{
+    
+    
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.Menu{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 300px;
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+
+}
+button{
+    background-color: black;
+    color: white;
+}
+.contact__sumbit{
+    background-color: yellow;
+    color: black;
+    width: 200px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
+.contact__form{
+    align: center;
+    margin-top: 10px;
+}
